@@ -14,6 +14,11 @@ accuracy while others demonstrate superior computational efficiency.
 Overall, this study provides valuable insights into the comparative performance of
 deep learning architectures.
 
+Dataset:
+https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
+I have considered only Tomato leaf dataset for this project. You can find the entire dataset in the above link.
+
 Files:
-Plant_Disease_detection_model: This file contains comparitive analysis between the CNN, DenseNet, MobileNet, and InceptionV3 architecture. 
-PlantDi
+Plant_Disease_detection_model.inpyb: This file contains comparitive analysis between the CNN, DenseNet, MobileNet, and InceptionV3 architecture. 
+Plantdisease_prediction.inpyb: This file contains code for predicting plant disease by uploading image link. The prediction is made using InceptionV3. InceptionV3 is used as the prediction model due to its high accuracy than rest of the models as in comparitive analysis.
+
