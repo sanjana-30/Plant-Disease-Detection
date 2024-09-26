@@ -18,7 +18,6 @@ deep learning architectures.
 
 Dataset:
 https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset          
-
 I have considered only Tomato leaf dataset for this project. You can find the entire dataset in the above link.
 
 
