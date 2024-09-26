@@ -14,4 +14,6 @@ accuracy while others demonstrate superior computational efficiency.
 Overall, this study provides valuable insights into the comparative performance of
 deep learning architectures.
 
-
+Files:
+Plant_Disease_detection_model: This file contains comparitive analysis between the CNN, DenseNet, MobileNet, and InceptionV3 architecture. 
+PlantDi
